@@ -52,3 +52,41 @@ Use this reference for Dutch to German and German to Dutch translation. Treat th
 | Gumax® staande terrasverwarmer 2100W | Gumax® stehender Heizstrahler Terrasse 2100W |
 | Gumax® glasdak upgrade pakket | Gumax® Glasdach Upgrade-Paket |
 | Gumax® opaal polycarbonaat dakpakket | Gumax® Opal Polycarbonat-Dachpaket |
+| 8° Spie voor schuifdeuren | Abschlusskeil für Schiebewanden |
+| Aluminium zijwand | Aluminium Seitenwand |
+| Betonpoeren | Betonfundamente |
+| Bevestigingsmaterialen | Verbindungselemente |
+| Bladvanger | Blattfänger |
+| Cassette | Kassette |
+| Deurmeenemers | Türmitnehmer |
+| Dusttapes | Staubtape |
+| Fundering glazen schuifdeuren | Unterkonstruktion Glasschiebewanden |
+| Gevelisolatie montagesysteem | Fassadendämmung Montagesystem |
+| Glazen dakplaten | Glas Dachplatten |
+| Glazen schuifdeur | Glasschiebetüren |
+| Gootpakketten | Rinnenpaket |
+| Handgrepen | Türgriffe |
+| L profielen | L-Profile |
+| Losse railssystemen (excl. cassettes) | Einzelne Schienensysteme (exkl. Kassetten) |
+| Losse railssystemen (incl. cassettes) | Einzelne Schienensysteme (inkl. Kassetten) |
+| Onderhoudsproducten | Wartungsprodukte |
+| Ophoogprofielen | Erhöhungsprofile |
+| Overig | Sonstiges |
+| Overig montage | Sonstige Montage |
+| PVC onderdelen | PVC Teile |
+| Polycarbonaat platen | Polycarbonatplatten |
+| Polycarbonaat zijwand | Polycarbonat Seitenwand |
+| Privacy folie voor glazen spie | Sichtschutzfolie für Glaskeil |
+| Schoren | Kopfband |
+| Spie op schutting | Abschlusskeil auf Palisaden |
+| Staanders | Pfosten |
+| Stalen strip | Stahlstreifen |
+| Steel Look | Steel Look |
+| Terrasverwarmer | Heizstrahler Terrasse |
+| Tochtstrips | Zugluftstopper |
+| Tussenliggers | Zwischenlieger |
+| U profielen | U-Profile |
+| U-profielen-staanders | U-Profil Pfosten |
+| Wielen | Räder |
+| Zijligger | Seitenlieger |
+| Zijplaat | Seitenplatte |

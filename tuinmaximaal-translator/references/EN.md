@@ -52,3 +52,41 @@ Use this reference for Dutch to English (UK) and English (UK) to Dutch translati
 | Gumax® staande terrasverwarmer 2100W | Gumax® standing patio heater 2100W |
 | Gumax® glasdak upgrade pakket | Gumax® glass roof upgrade kit |
 | Gumax® opaal polycarbonaat dakpakket | Gumax® opal polycarbonate roof kit |
+| 8° Spie voor schuifdeuren | 8° Wedge for sliding doors |
+| Aluminium zijwand | Aluminium sidewall |
+| Betonpoeren | Spot foundations |
+| Bevestigingsmaterialen | Fixing materials |
+| Bladvanger | Leaf catcher |
+| Cassette | Cassette |
+| Deurmeenemers | Door followers |
+| Dusttapes | Dusttapes |
+| Fundering glazen schuifdeuren | Glass sliding doors foundation |
+| Gevelisolatie montagesysteem | Facade insulation mounting system |
+| Glazen dakplaten | Glass roof panels |
+| Glazen schuifdeur | Glass sliding door |
+| Gootpakketten | Gutter packages |
+| Handgrepen | Door handles |
+| L profielen | L profiles |
+| Losse railssystemen (excl. cassettes) | Individual rail systems (excl. cassettes) |
+| Losse railssystemen (incl. cassettes) | Individual rail systems (incl. cassettes) |
+| Onderhoudsproducten | Maintenance products |
+| Ophoogprofielen | Elevation profiles |
+| Overig | Other |
+| Overig montage | Other assembly |
+| PVC onderdelen | PVC components |
+| Polycarbonaat platen | Polycarbonate panels |
+| Polycarbonaat zijwand | Polycarbonate side wall |
+| Privacy folie voor glazen spie | Privacy foil for glass wedge |
+| Schoren | Struts |
+| Spie op schutting | Wedge on fence |
+| Staanders | Posts |
+| Stalen strip | Steel strip |
+| Steel Look | Steel Look |
+| Terrasverwarmer | Patio heater |
+| Tochtstrips | Weather strips |
+| Tussenliggers | Intermediate beams |
+| U profielen | U profiles |
+| U-profielen-staanders | U profiles support structures |
+| Wielen | Wheels |
+| Zijligger | Side beam |
+| Zijplaat | Side panel |
