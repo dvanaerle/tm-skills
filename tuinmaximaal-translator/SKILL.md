@@ -14,7 +14,7 @@ description: Brand-sensitive translation for Tuinmaximaal product, ecommerce, ma
    - Dutch <-> German: `references/DE.md`
 3. Use the Dutch term on the left side of the selected reference as the source of truth for official Tuinmaximaal and Gumax® product terminology.
 4. Use glossary terms before free translation. Keep approved product names intact and adjust only the surrounding grammar.
-5. Treat `Gumax®` as a brand token, not a generic noun. Follow the target language's approved brand placement from the glossary row instead of forcing Dutch word order. For example, in French the brand normally appears at the end of the product term.
+5. In French, adapt the product name to natural French word order and place `Gumax®` at the end of the full product term unless the approved glossary entry explicitly requires another position.
 6. Use the glossary for brand-specific terminology and approved product names. Translate generic, non-glossary wording naturally in the target language.
 7. Keep the glossary focused on brand-specific terminology. Do not add general-purpose dictionary terms, generic adjectives, broad UI labels, or other low-risk generic wording.
 8. Preserve official formatting such as `Gumax®`, product capitalization when it remains grammatical, the formal customer-facing tone, and the punctuation rules from the selected reference.
@@ -29,5 +29,4 @@ description: Brand-sensitive translation for Tuinmaximaal product, ecommerce, ma
 - Return the translation only, unless you need to flag a missing or ambiguous glossary term.
 - When you flag a missing or ambiguous term, keep the note short and actionable.
 - Keep currencies and other language-specific wording aligned with the selected reference.
-- Respect the glossary's brand placement for each language. Do not move `Gumax®` to the front or end unless the approved glossary entry for that term does so.
 - Before returning the result, quickly check that every obvious Tuinmaximaal or Gumax® product term matches the glossary.
