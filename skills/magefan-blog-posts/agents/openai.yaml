@@ -1,0 +1,4 @@
+interface:
+  display_name: "Magefan Blog Posts"
+  short_description: "Create PageBuilder-safe Magefan blog CSVs."
+  default_prompt: "Use $magefan-blog-posts to create or update localized Magento Magefan blog CSV rows and verify the PageBuilder import structure."
